@@ -1,0 +1,182 @@
+footer, header, main, nav, section {
+    display:block;
+}
+
+html, body, h1, h2, h3, ul, li, a, p,
+footer, header, main, nav, section {
+    padding: auto;
+    margin: auto;
+}
+
+
+.glavniNaslov {
+    text-align: center;
+    background-color: darkblue;
+    
+}
+
+#singi {
+    margin-right: auto;
+    padding: 20px 30px;
+    width: 100px;
+}
+
+.topnav {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    background-color: darkcyan;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    
+}
+
+#active1 {
+    gap: 20px;
+    padding: 5px 10px;
+    font-size: large;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+}
+
+
+#active2 {
+    gap: 20px;
+    padding: 5px 10px;
+    font-size: large;
+    font-weight: bold;
+    text-transform: uppercase;
+    color:white;
+}
+
+
+#active3 {
+    gap: 20px;
+    padding: 5px 10px;
+    font-size: large;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+}
+
+
+#active4 {
+    gap: 20px;
+    padding: 5px 10px;
+    font-size: large;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+}
+
+.section1 {
+    background-color: whitesmoke;
+    display: flex;
+    
+}
+
+#slika1 {
+    margin: 35px 55px;
+    padding-left: 200px;
+    width: 55%;
+    
+}
+
+#slika2 {
+    margin: 35px 25px;
+    padding-right: 200px;
+    float: right;
+}
+
+.section2 {
+    background-color: blue;
+    display: flex;
+}
+
+#par1 {
+    margin: 50px;
+    width: 200px;
+    height: 100px;
+    padding: 70px; 
+    margin-left: 200px;
+
+}
+
+#par2 {
+    margin: 50px;
+    width: 200px;
+    height: 100px;
+    padding: 70px; 
+    margin-left: 200px;
+}
+
+#par3 {
+    margin: 50px;
+    width: 200px;
+    height: 100px;
+    padding: 70px; 
+    margin-left: 200px;   
+}
+
+.tg  {border-collapse:collapse;border-spacing:0; width: 50%; margin-left: 25%; height: 150px; }
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2n01{background-color:#31cfff;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+
+
+.sekcija3 {
+    
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    
+}
+
+.zadnji {
+    text-align: center;
+    background-color: blue;
+}
+
+#red1 {
+    display: block;
+    width: 3%;
+    margin-right: 30px;
+    padding: 20px 0px;
+
+}
+
+#red2 {
+    display: block;
+    width: 3%;
+    margin-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#red3 {
+    display: block;
+    width: 3%;
+    margin-right: 30px;
+    padding: 20px 0px;
+}
+
+#red4 {
+    display: block;
+    width: 3%;
+    margin-right: 30px;
+    padding: 20px 0px;
+}
+
+.kraj {
+    display: flex;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
